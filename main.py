@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-TOKEN = "MTA4MjYxMDEwMDQ0MDY2NjExMg.GOtV9S.Wbtd49czur2PYaL8n3nbLHyiWmWmQPzks51_4c"
+TOKEN = "TOKEN"
 class ExampleBot(commands.Bot):
     def __init__(self):
         # initialise l'objet bot
