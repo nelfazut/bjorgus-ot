@@ -1,0 +1,8 @@
+{"paragraphe" : "Vous êtes revêtu de la longue robe grise à capuchon des sorciers Majdars, et votre Baguette est votre seule arme. Vous portez un Sac à Dos qui contient 4 Repas. Enfin vous êtes nanti d'une carte de l'Empire Chadakine que vous gardez dans un pli de votre robe. Si l'Alchimie fait partie des Pouvoirs magiques que vous avez choisis, vous disposez d'une pochette à herbes et potions, que vous accrocherez à votre ceinture. Elle contient :\n- 2 fioles vides (pour les potions)\n- 1 fiole de salpêtre\n- 1 fiole de soufre.\nNotez ces quatre fioles sur votre Feuille d'Aventure. Votre pochette à herbes et potions ne peut contenir plus de six objets. Le jour de votre départ, vos maîtres vous ont offert un cadeau en vous laissant choisir, selon la tradition Majdar, entre plusieurs objets :\n1 DAGUE SERTIE DE PIERRES PRÉCIEUSES. Cette dague augmente de 1 point votre HABILETÉ au combat.\n1 TALISMAN MAGIQUE. Ce talisman accroît votre VOLONTÉ de 2 points,\n1 FIOLE DE LAUMSPUR. Si vous la buvez après un combat, cette potion vous permettra de récupérer4 points d'ENDURANCE. La fiole ne contient qu'une seule dose de potion.",
+ "inventaire fixe" : {"fiole vide" : 2,
+ "fiole salpetre" : 1,
+ "fiole soufre" : 1},
+"inventaire choix" : {"dague sortie de pierres précieuses" : 1,
+"talisman magique": 1,
+"Fiole de laumspur": 1},
+"armes" : ["dague sortie de pierres précieuses"]}
